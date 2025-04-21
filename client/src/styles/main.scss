@@ -1,0 +1,11 @@
+$primary-color: #3498db;
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+h1 {
+    color: $primary-color;
+    text-align: center;
+}
