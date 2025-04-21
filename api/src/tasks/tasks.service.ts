@@ -30,6 +30,6 @@ export class TasksService {
         }
 
         // @ts-ignore
-        return null;  // Это будет работать, если return типа Task, так как null это допустимо для типов, которые могут быть пустыми.
+        return null;  
     }
 }
